@@ -1,0 +1,7 @@
+public int sumar (int x, int y, int z) {
+    return x+y+x;
+};
+
+public main() {
+    print(suma(1,2,3));
+}
