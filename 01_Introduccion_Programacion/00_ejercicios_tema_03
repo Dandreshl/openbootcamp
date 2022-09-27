@@ -1,7 +1,7 @@
 public class coche {
     int puertas;
 
-    private int aumentar_puertas() {
+    public int aumentar_puertas() {
         puertas += 1;
     }
 }
